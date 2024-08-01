@@ -23,8 +23,8 @@
 
 ####Knowledgeable
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![express]https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-![react]https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 💬 Contact
