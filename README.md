@@ -1,17 +1,19 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SONG_JAE_MIN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HELLO_WORLD&fontSize=90)
 
-### 🌱 Algo Level and Languages
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 </h2>  
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 동료들과 함께 성장하는 백엔드 개발자 송재민입니다. </div> 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeli01)](https://solved.ac/jeli01)
+## 🌱 Algo Languages and Level
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeli01)](https://solved.ac/jeli01)
 
-### 🛠 Dev Languages and Tools
+
+## 🛠 Dev Languages and Tools
 
 #### Main
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
