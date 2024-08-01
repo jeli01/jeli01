@@ -28,7 +28,9 @@
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 💬 Contact
-[instagram]: https://instagram.com/songjaemin178
+<a href="https://www.instagram.com/songjaemin178/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
 
 <!--
 **jeli01/jeli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
