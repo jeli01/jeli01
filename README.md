@@ -1,5 +1,7 @@
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there 👋 </h2>  
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 동료들과 함께 성장하는 백엔드 개발자 송재민입니다. </div> 
+# Hi there 👋
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 동료들과 함께 성장하는 백엔드 개발자 송재민입니다. </div>
+<br/>
+<br/>
 
 ## 🌱 Algo Languages and Level
 
@@ -25,7 +27,7 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 💬 Contact
+## 💬 Contact
 <a href="https://www.instagram.com/songjaemin178/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
