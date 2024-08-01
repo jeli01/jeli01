@@ -1,13 +1,8 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule&fontSize=90)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeli01)](https://solved.ac/jeli01)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeli01)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeli01)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jeli01/jeli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
