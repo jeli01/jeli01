@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JAEMIN_CODE&fontSize=90)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeli01)](https://solved.ac/jeli01)
 
