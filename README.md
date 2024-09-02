@@ -32,7 +32,7 @@
 
 
 ## 💬 Contact
-<a href="https://www.instagram.com/songjaemin178/">
+<a href="https://www.instagram.com/Jaemin.0407/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
