@@ -46,11 +46,6 @@
 | [2023학년도 2학기 창의설계 경진대회](https://github.com/Kim-Song/Recommend) | 세종대학교 | 2023.12.01 | 대상 |
 | 2019학년도 교내 SW코딩경시대회  | 세종대학교 | 2019.12.04 | 4등 |
 
-## 💬 Contact
-<a href="https://www.instagram.com/Jaemin.0407/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-
 <!--
 **jeli01/jeli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
