@@ -37,7 +37,7 @@
 | 세종대학교 프로그래밍 학술동아리 아롬 14기  | 2024.09.04 ~ 2024.12.31 | 프로그래밍 학술 스터디 (CS 및 개발 관련) | 부원 |
 | [우아한 테크 코스 프리코스](https://github.com/jeli01/woowa-course-package) | 2023.10.19 ~ 2024.01.22 | 클린코드, tdd, OOP 개념을 이용한 토이 프로젝트 | 교육생 |
 | [세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 11기](https://horse-spy-cb6.notion.site/2023-4a7351680f5545d9a46f51817cd0f6b1?pvs=4) | 2023.03.03 ~ 2023.12.31 | 스터디 자료 및 과제 기획, 코드 리뷰, 프로젝트 멘토링 | 회장 |
-| 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 10기  | 2022.03.04 ~ 2022.12.31 | 웹 개발 스터디 및 공모전 참여 | 부원 |
+| 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 10기  | 2022.03.04 ~ 2022.12.31 | [웹 개발 스터디](https://github.com/jeli01/InstagramCloneCoding) 및 [공모전](https://github.com/DONGUKwillsucceed/sejong-exchangeStudent) 참여 | 부원 |
 
 ## 🚀 Award
 
