@@ -50,9 +50,9 @@
 
 세종대학교 소프트웨어학과 재학 2019.03.04 ~ 2025.02.14
 
-전체 학점 4.0/4.5
+전체 학점 4.0 / 4.5
 
-전공 학점 4.12
+전공 학점 4.12 / 4.5
 
 <!--
 **jeli01/jeli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
