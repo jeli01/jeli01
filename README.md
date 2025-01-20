@@ -1,7 +1,5 @@
 # Hi there 👋
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 동료들과 함께 성장하는 백엔드 개발자 송재민입니다. </div>
-<br/>
-<br/>
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하십니까! 백엔드 개발자 송재민입니다. </div>
 
 ## 🌱 Algo Languages and Level
 
@@ -30,6 +28,30 @@
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+
+## 🚀 Program & Community
+
+| 프로그램 | 기간 | 설명 | 기록 |
+|----------|------|------|-----|
+| 카카오테크 부트캠프 1기 | 2025.01.20 ~ | 풀스택 과정 |  |
+| 우아한 테크 코스 프리코스  | 2023.10.19 ~ 2024.01.22 | 클린코드, tdd, OOP 개념을 이용한 토이 프로젝트 |  |
+| 세종대학교/웹 프로그래밍 학술동아리 OpenYearRound 11기 회장  | 2023.03.03 ~ 2023.12.31 | 스터디 자료 및 과제 기획, 코드 리뷰, 프로젝트 멘토링 |  |
+| 세종대학교 프로그래밍 학술동아리 아롬 14기  | 2024.09.04 ~ 2024.12.31 | 프로그래밍 학술 스터디 (CS 및 개발 관련) |  |
+| 세종대학교/웹 프로그래밍 학술동아리 OpenYearRound 10기  | 2022.03.04 ~ 2022.12.31 | 웹 개발 스터디 및 공모전 참여 |  |
+
+## 🚀 Award
+
+| 수상명 | 수여기관 | 수상일 | 수상내역 |
+|----------|------|------|-----|
+| 2023학년도 2학기 창의설계 경진대회 | 세종대학교 | 2023.12.01 | 대상 |
+| 2019학년도 교내 SW코딩경시대회  | 세종대학교 | 2019.12.04 | 4등 |
+
+## 🚀 Community
+
+| 수상명 | 수여기관 | 수상일 | 수상내역 |
+|----------|------|------|-----|
+| 2023학년도 2학기 창의설계 경진대회 | 세종대학교 | 2023.12.01 | 대상 |
+| 2019학년도 교내 SW코딩경시대회  | 세종대학교 | 2019.12.04 | 4등 |
 
 ## 💬 Contact
 <a href="https://www.instagram.com/Jaemin.0407/">
