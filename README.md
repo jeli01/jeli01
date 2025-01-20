@@ -1,6 +1,12 @@
 # Hi there 👋
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하십니까! 백엔드 개발자 송재민입니다. </div>
 
+- 배움을 나누며 함께 성장하는 것을 좋아합니다.
+
+- 사용자 중심으로 생각합니다.
+
+- 특정 기술이 쓰이는 이유를 정확히 파악합니다.
+
 ## 🌱 Algo Languages and Level
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
