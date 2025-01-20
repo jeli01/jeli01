@@ -46,6 +46,12 @@
 | [2023학년도 2학기 창의설계 경진대회](https://github.com/Kim-Song/Recommend) | 세종대학교 | 2023.12.01 | 대상 |
 | 2019학년도 교내 SW코딩경시대회  | 세종대학교 | 2019.12.04 | 4등 |
 
+## 🚀 Education
+
+세종대학교 소프트웨어학과 2019.03.04 ~ 2025.02.14
+전체 학점 4.0/4.5
+전공 학점 4.12
+
 <!--
 **jeli01/jeli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
