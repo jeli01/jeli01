@@ -67,7 +67,7 @@
 | 스터디명 | 기간 | 설명 |
 |----------|------|------|
 | [Spring 내부 동작 알아내기](https://curious-soprano-a10.notion.site/OYR-fd0396b21bb449c8b2d0442840575643?pvs=4) | 2024.03.04 ~ 2024.12.12 | 스프링 내부 동작에 대한 발표 진행 |
-| [코딩테스트 스터디](https://curious-soprano-a10.notion.site/fabf312858ca4627b256828c38ab1af4?pvs=4) | 2023.09.04 ~ 2024.11.21 | 알고리즘 문제 풀이 및 코드 리뷰 |
+| [코딩테스트 스터디](https://curious-soprano-a10.notion.site/fabf312858ca4627b256828c38ab1af4?pvs=4) | 2023.06.06 ~ 2024.11.21 | 알고리즘 문제 풀이 및 코드 리뷰 |
 
 ## 🚀 Education
 
