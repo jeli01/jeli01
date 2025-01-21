@@ -50,7 +50,7 @@
 | 프로그램 | 기간 | 설명 | 직책 |
 |----------|------|------|-------|
 | [카카오 테크 부트캠프 2기](https://github.com/kakao-tech-bootcamp-2th-self) | 2025.01.20 ~| 풀스택 과정 | 교육생 |
-| 세종대학교 프로그래밍 학술동아리 아롬 14기  | 2024.09.04 ~ 2024.12.31 | 프로그래밍 학술 스터디 운영 ([CS](https://alom.notion.site/CS-11900201d4ac8003ac99d483277a028f?pvs=4) 및 [클린코드](https://alom.notion.site/11900201d4ac80daa931fc9068d12258?pvs=4) 관련) | 부원 |
+| 세종대학교 프로그래밍 학술동아리 아롬 14기  | 2024.09.04 ~ 2024.12.31 | 프로그래밍 학술 스터디 운영 ([CS](https://curious-soprano-a10.notion.site/CS-18202bc778a980ada628c51912f528b1?pvs=4) 및 [클린코드](https://curious-soprano-a10.notion.site/18202bc778a9801a8825d9de4b3a2ebf?pvs=4) 관련) | 부원 |
 | [우아한 테크 코스 프리코스](https://github.com/jeli01/woowa-course-package) | 2023.10.19 ~ 2024.01.22 | 클린코드, tdd, OOP 개념을 이용한 토이 프로젝트 | 교육생 |
 | 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 11기 | 2023.03.03 ~ 2023.12.31 | 스터디 자료 및 과제 기획, 코드 리뷰, 프로젝트 멘토링 [-> 운영 자료](https://horse-spy-cb6.notion.site/2023-4a7351680f5545d9a46f51817cd0f6b1?pvs=4)| 회장 |
 | 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 10기 | 2022.03.04 ~ 2022.12.31 | [웹 개발 스터디](https://github.com/jeli01/InstagramCloneCoding) 및 [학술제](https://github.com/DONGUKwillsucceed/sejong-exchangeStudent) 참여 | 부원 |
