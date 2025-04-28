@@ -1,13 +1,16 @@
 # Hi there 👋
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하십니까! 백엔드 개발자 송재민입니다. </div>
-
-- 배움을 나누며 함께 성장하는 것을 좋아합니다.
-
-- 사용자 경험을 최우선으로 생각합니다.
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> SPRING의 본질을 꿰뚫는 개발자 송재민입니다. </div>
 
 - 특정 기술이 쓰이는 이유를 정확히 파악합니다.
 
-email: song98.dev@gmail.com
+- 배움을 나누며 함께 성장하는 것을 좋아합니다.
+
+- 
+
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:song98.dev@gmail.com)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://aole.tistory.com/)
 
 ## 🛠 Dev Languages and Tools
 
@@ -15,7 +18,7 @@ email: song98.dev@gmail.com
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
