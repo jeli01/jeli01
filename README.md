@@ -3,10 +3,7 @@
 
 - 특정 기술이 쓰이는 이유를 정확히 파악합니다.
 
-- 배움을 나누며 함께 성장하는 것을 좋아합니다.
-
-- 
-
+  예를 들어 스프링 데이터 접근 기술이 어떤 이유로 변해왔는지 정확히 파악하고 있습니다.
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:song98.dev@gmail.com)
@@ -50,13 +47,6 @@
 | [2023학년도 2학기 창의설계 경진대회](https://github.com/Kim-Song/Recommend) | 세종대학교 | 2023.12.01 | 대상 |
 | 2019학년도 교내 SW코딩경시대회  | 세종대학교 | 2019.12.04 | 4등 |
 
-## 🌱 Algo Languages and Level
-
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeli01)](https://solved.ac/jeli01)
-
 ## 🚀 Study
 
 | 스터디명 | 기간 | 설명 |
@@ -72,19 +62,9 @@
 
 전체 학점 4.00 / 4.5
 
+## 🌱 Algo Languages and Level
 
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<!--
-**jeli01/jeli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeli01)](https://solved.ac/jeli01)
