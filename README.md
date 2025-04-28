@@ -1,11 +1,11 @@
 # Hi there 👋
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> SPRING의 본질을 꿰뚫는 개발자 송재민입니다. </div>
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 본질을 꿰뚫는 개발자 송재민입니다. </div>
 
 - 특정 기술이 쓰이는 이유를 정확히 파악합니다.
 
   남에게 설명하지 못하면 개념을 알고 있는 것이 아니라고 생각합니다.
 
-  교내 웹 프로그래밍 동아리에서 회장으로서 2년간 멘토링 및 36회의 세미나를 진행하며 Spring의 본질을 파악하였습니다.
+  교내 웹 프로그래밍 동아리 회장으로서 2년간 멘토링 및 28회의 세미나를 진행하며 Spring의 본질을 파악하였습니다.
 
   예를 들어 스프링 데이터 접근 기술이 어떤 이유로 변해왔는지 정확히 파악하고 있습니다.
 
