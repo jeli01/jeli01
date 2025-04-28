@@ -3,6 +3,10 @@
 
 - 특정 기술이 쓰이는 이유를 정확히 파악합니다.
 
+  남에게 설명하지 못하면 개념을 알고 있는 것이 아니라고 생각합니다.
+
+  교내 웹 프로그래밍 동아리에서 회장으로서 2년간 멘토링 및 36회의 세미나를 진행하며 Java 및 Spring의 본질을 파악하였습니다.
+
   예를 들어 스프링 데이터 접근 기술이 어떤 이유로 변해왔는지 정확히 파악하고 있습니다.
 
 
@@ -17,18 +21,8 @@
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
 #### Knowledgeable
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
-
 
 ## 🚀 Program & Community
 
