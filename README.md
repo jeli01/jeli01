@@ -28,10 +28,10 @@
 
 | 프로젝트명 | 기간 | 설명 | 포지션 |
 |----------|------|------|-------|
-| SpecRanking | 2025.04 ~| 취업 준비생을 위한 스펙 점수 제공 플랫폼 ([백엔드](https://github.com/100-hours-a-week/19-Respec-BE), [프론트](https://github.com/100-hours-a-week/19-Respec-FE)) | 풀스택 |
-| [DevTalk](https://github.com/100-hours-a-week/2-jelly-song-community)  | 2025.03 ~ 2025.03 | 개발자들의 소통 공간 | 풀스택 |
-| [Recommend](https://github.com/Kim-Song/Recommend) | 2023.09 ~ 2023.12 | 코딩 테스트 학습 도우미 서비스 (@Async를 이용해 코드 분석 속도 5배 향상) | 백엔드 |
-| [WaterBomb](https://github.com/jeli01/water-bomb) | 2022.09 ~ 2022.12 | 콘솔 아케이드 게임 (리액트 렌더링을 C언어에 도입함으로써 팀 개발 속도 1.5배 향상) | PL |
+| SpecRanking | 2025.04 ~| dev, stage, prod 각각에 대한 mock 서버 구축 ([백엔드](https://github.com/100-hours-a-week/19-Respec-BE), [프론트](https://github.com/100-hours-a-week/19-Respec-FE)) | 풀스택 |
+| [DevTalk](https://github.com/100-hours-a-week/2-jelly-song-community)  | 2025.03 ~ 2025.03 | 프론트, 백엔드, 인프라 전반에 대한 경험 | 풀스택 |
+| [Recommend](https://github.com/Kim-Song/Recommend) | 2023.09 ~ 2023.12 | @Async를 이용해 코드 분석 속도 5배 향상 | 백엔드 |
+| [WaterBomb](https://github.com/jeli01/water-bomb) | 2022.09 ~ 2022.12 | 리액트 렌더링을 C언어에 도입, 팀 개발 속도 1.5배 향상) | PL |
 
 ## 🚀 Award
 
