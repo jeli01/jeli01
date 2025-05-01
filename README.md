@@ -31,7 +31,7 @@
 | [SpecRanking](https://github.com/100-hours-a-week/19-Respec-BE) | 2025.04 ~| 실사용자 291명 서비스 | 풀스택 |
 | [DevTalk](https://github.com/100-hours-a-week/2-jelly-song-community)  | 2025.03 ~ 2025.03 | 유의미한 테스트 코드에 대한 고찰 | 풀스택 |
 |[Recommend](https://github.com/Kim-Song/Recommend) | 2023.09 ~ 2023.12 | @Async를 이용한 코드 분석 속도 5배 향상 | 백엔드 |
-| [WaterBomb](https://github.com/jeli01/water-bomb) | 2022.09 ~ 2022.12 | 리액트 렌더링을 C언어에 도입, 팀 개발 속도 1.5배 향상) | PL |
+| [WaterBomb](https://github.com/jeli01/water-bomb) | 2022.09 ~ 2022.12 | 리액트 렌더링을 C언어에 도입, 팀 개발 속도 1.5배 향상 | PL |
 
 ## 🚀 Award
 
