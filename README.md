@@ -30,7 +30,7 @@
 |----------|------|------|-------|
 | SpecRanking | 2025.04 ~| 취업 준비생을 위한 스펙 점수 제공 플랫폼 | 풀스택 |
 | DevTalk  | 2025.03 ~ 2025.03 | 개발자들의 소통 공간 | 풀스택 |
-| Recommend[(https://github.com/Kim-Song/Recommend)] | 2023.09 ~ 2023.12 | 코딩 테스트 학습 도우미 서비스 | 백엔드 |
+| [Recommend](https://github.com/Kim-Song/Recommend) | 2023.09 ~ 2023.12 | 코딩 테스트 학습 도우미 서비스 | 백엔드 |
 | WaterBomb | 2022.09 ~ 2022.12 | 콘솔 아케이드 게임 | PL |
 
 ## 🚀 Award
