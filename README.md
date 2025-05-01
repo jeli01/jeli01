@@ -26,7 +26,7 @@
 
 ## 🚀 Projects
 
-| 프로젝트명 | 기간 | 설명 | 포지션 |
+| 프로젝트명 | 기간 | 경험 | 포지션 |
 |----------|------|------|-------|
 | SpecRanking | 2025.04 ~| dev, stage, prod 각각에 대한 mock 서버 구축 ([백엔드](https://github.com/100-hours-a-week/19-Respec-BE), [프론트](https://github.com/100-hours-a-week/19-Respec-FE)) | 풀스택 |
 | [DevTalk](https://github.com/100-hours-a-week/2-jelly-song-community)  | 2025.03 ~ 2025.03 | 프론트, 백엔드, 인프라 전반에 대한 경험 | 풀스택 |
