@@ -24,6 +24,22 @@
 #### Knowledgeable
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## 🚀 Projects
+
+| 프로젝트명 | 기간 | 설명 | 포지션 |
+|----------|------|------|-------|
+| SpecRanking | 2025.04 ~| 취업 준비생을 위한 스펙 점수 제공 플랫폼 | 풀스택 |
+| DevTalk  | 2025.03 ~ 2025.03 | 개발자들의 소통 공간 | 풀스택 |
+| Recommend | 2023.09 ~ 2023.12 | 코딩 테스트 학습 도우미 서비스 | 백엔드 |
+| WaterBomb | 2022.09 ~ 2022.12 | 콘솔 아케이드 게임 | PL |
+
+## 🚀 Award
+
+| 수상명 | 수여기관 | 수상일 | 수상내역 |
+|----------|------|------|-----|
+| [2023학년도 2학기 창의설계 경진대회](https://github.com/Kim-Song/Recommend) | 세종대학교 | 2023.12.01 | 대상 |
+| 2019학년도 교내 SW코딩경시대회  | 세종대학교 | 2019.12.04 | 4등 |
+
 ## 🚀 Program & Community
 
 | 프로그램 | 기간 | 설명 | 직책 |
@@ -33,13 +49,6 @@
 | [우아한 테크 코스 프리코스 6기](https://github.com/jeli01/woowa-course-package) | 2023.10.19 ~ 2024.01.22 | 클린코드, tdd, OOP 개념을 이용한 토이 프로젝트 | 대외활동 |
 | 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 11기 | 2023.03.03 ~ 2023.12.31 | 스터디 자료 및 과제 기획, 코드 리뷰, 프로젝트 멘토링 [-> 운영 자료](https://horse-spy-cb6.notion.site/2023-4a7351680f5545d9a46f51817cd0f6b1?pvs=4)| 회장 |
 | 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 10기 | 2022.03.04 ~ 2022.12.31 | [웹 개발 스터디](https://github.com/jeli01/InstagramCloneCoding) 및 [학술제](https://github.com/DONGUKwillsucceed/sejong-exchangeStudent) 참여 | 부원 |
-
-## 🚀 Award
-
-| 수상명 | 수여기관 | 수상일 | 수상내역 |
-|----------|------|------|-----|
-| [2023학년도 2학기 창의설계 경진대회](https://github.com/Kim-Song/Recommend) | 세종대학교 | 2023.12.01 | 대상 |
-| 2019학년도 교내 SW코딩경시대회  | 세종대학교 | 2019.12.04 | 4등 |
 
 ## 🚀 Study
 
