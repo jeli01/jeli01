@@ -23,7 +23,7 @@
 
 ## 🚀 Projects
 
-| 프로젝트명 | 기간 | 경험 | 포지션 |
+| 프로젝트명 | 기간 | 핵심 경험 | 포지션 |
 |----------|------|------|-------|
 | [SpecRanking](https://github.com/100-hours-a-week/19-Respec-BE) | 2025.04 ~| 불필요한 브로드캐스트 제거, 트래픽 90% 절감한 채팅 아키텍처 설계 | 풀스택 |
 | [DevTalk](https://github.com/100-hours-a-week/2-jelly-song-community)  | 2025.03 ~ 2025.03 | 유의미한 테스트 코드에 대한 고찰 | 풀스택 |
