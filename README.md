@@ -21,6 +21,9 @@
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### Acknowledge
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
 ## 🚀 Projects
 
 | 프로젝트명 | 기간 | 핵심 경험 | 포지션 |
