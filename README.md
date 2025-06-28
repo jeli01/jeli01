@@ -28,7 +28,7 @@
 
 | 프로젝트명 | 기간 | 핵심 경험 | 포지션 |
 |----------|------|------|-------|
-| [SpecRanking](https://github.com/100-hours-a-week/19-Respec-BE) | 2025.04 ~| 불필요한 브로드캐스트 제거, 트래픽 90% 절감한 채팅 아키텍처 설계 | 풀스택 |
+| [SpecRanking](https://github.com/100-hours-a-week/19-Respec-BE) | 2025.04 ~ 2025.06 | 불필요한 브로드캐스트 제거, 트래픽 90% 절감한 채팅 아키텍처 설계 | 풀스택 |
 | [DevTalk](https://github.com/100-hours-a-week/2-jelly-song-community)  | 2025.03 ~ 2025.03 | 유의미한 테스트 코드에 대한 고찰 | 풀스택 |
 |[Recommend](https://github.com/Kim-Song/Recommend) | 2023.09 ~ 2023.12 | @Async를 이용한 코드 분석 기능 속도 5배 향상 | 백엔드 |
 | [WaterBomb](https://github.com/jeli01/water-bomb) | 2022.09 ~ 2022.12 | 리액트 렌더링을 C언어에 도입, 팀 개발 속도 1.5배 향상 | PL |
