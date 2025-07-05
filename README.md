@@ -49,7 +49,7 @@
 
 | 프로그램 | 기간 | 설명 | 직책 |
 |----------|------|------|-------|
-| SSAFY (Samsung SW AI academy For Youth) | 2025.07.08 ~ | 삼성 주관 소프트웨어 교육 | 교육생 | 
+| Samsung SW AI academy For Youth (SSAFY) | 2025.07.08 ~ | 삼성 주관 소프트웨어 교육 | 교육생 | 
 | [카카오 테크 부트캠프 2기](https://github.com/100-hours-a-week/2-jelly-song) | 2025.01.20 ~ 2025.07.07 | 풀스택 과정, 실 사용자 126명 서비스 [스펙랭킹](https://github.com/100-hours-a-week/19-Respec-BE) 런칭 | 교육생 |
 | 세종대학교 프로그래밍 학술동아리 아롬 14기  | 2024.09.04 ~ 2024.12.31 | 프로그래밍 학술 스터디 운영 ([CS](https://curious-soprano-a10.notion.site/CS-18202bc778a980ada628c51912f528b1?pvs=4) 및 [클린코드](https://curious-soprano-a10.notion.site/18202bc778a9801a8825d9de4b3a2ebf?pvs=4) 관련) | 부원 |
 | [우아한 테크 코스 프리코스 6기](https://github.com/jeli01/woowa-course-package) | 2023.10.19 ~ 2024.01.22 | 클린코드, tdd, OOP 개념을 이용한 토이 프로젝트 | 대외활동 |
