@@ -13,7 +13,7 @@
 #### Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:song98.dev@gmail.com)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://aole.tistory.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.canva.com/design/DAG0z9O4oMM/xpyFAIBLjQOOFp5w2JDAwQ/edit?utm_content=DAG0z9O4oMM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.canva.com/design/DAG1ZDlqO-4/ndhNiqaENeSTKkd6nSPZAQ/edit?utm_content=DAG1ZDlqO-4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## 🛠 Dev Languages and Tools
