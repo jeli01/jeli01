@@ -62,13 +62,6 @@
 | 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 11기 | 2023.03.03 ~ 2023.12.31 | 스터디 자료 및 과제 기획, 코드 리뷰, 프로젝트 멘토링 [-> 운영 자료](https://horse-spy-cb6.notion.site/2023-4a7351680f5545d9a46f51817cd0f6b1?pvs=4)| 회장 |
 | 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 10기 | 2022.03.04 ~ 2022.12.31 | [웹 개발 스터디](https://github.com/jeli01/InstagramCloneCoding) 및 [학술제](https://github.com/DONGUKwillsucceed/sejong-exchangeStudent) 참여 | 부원 |
 
-## 🚀 Study
-
-| 스터디명 | 기간 | 설명 |
-|----------|------|------|
-| [Spring 내부 동작 알아내기](https://curious-soprano-a10.notion.site/OYR-fd0396b21bb449c8b2d0442840575643?pvs=4) | 2024.03.04 ~ 2024.12.12 | 스프링 내부 동작에 대한 발표 진행 |
-| [코딩테스트 스터디](https://curious-soprano-a10.notion.site/fabf312858ca4627b256828c38ab1af4?pvs=4) | 2023.06.06 ~ 2024.11.21 | 알고리즘 문제 풀이 및 코드 리뷰 |
-
 ## 🚀 Education
 
 세종대학교 소프트웨어학과 졸업 2019.03.04 ~ 2025.02.14
